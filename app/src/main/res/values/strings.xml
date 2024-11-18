@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x" tools:keep="@string/camera_x">CameraX</string>
+    <string name="camera" tools:keep="@string/camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="warning_result">An error occurred while processing the result.</string>
+    <string name="back">Back</string>
+</resources>
